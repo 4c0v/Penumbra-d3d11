@@ -11,5 +11,7 @@ My little port from OpenGL to DirectX11
 ![first run](https://img.shields.io/badge/first_run-not_started-131313?style=flat-square&labelColor=131313)
 
 Backend: 5 classes implementing the engine's `iLowLevelGraphics`, `iTexture`, `iVertexBuffer`, `iGpuProgram` and `iOcclusionQuery` (about 5,200 lines).
+
 Shaders: 51 HLSL files from 64 Cg originals the rest are old-GPU fallbacks and two-pass spot lights, skipped on purpose.
+
 Shader loading: Compiled at runtime with `D3DCompile`; the engine still asks for `X.cg` and gets `X.hlsl`.
