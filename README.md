@@ -8,7 +8,6 @@ My little port from OpenGL to DirectX11
 ![checks](https://img.shields.io/badge/checks-84%2F84_passing-809099?style=flat-square&labelColor=131313)
 ![GPU](https://img.shields.io/badge/verified_on-real_GPU_FL_11.0-809099?style=flat-square&labelColor=131313)
 ![full game build](https://img.shields.io/badge/full_game_build-not_started-131313?style=flat-square&labelColor=131313)
-![MSVC](https://img.shields.io/badge/MSVC-untested-131313?style=flat-square&labelColor=131313)
 ![first run](https://img.shields.io/badge/first_run-not_started-131313?style=flat-square&labelColor=131313)
 
 Backend: 5 classes implementing the engine's `iLowLevelGraphics`, `iTexture`, `iVertexBuffer`, `iGpuProgram` and `iOcclusionQuery` (about 5,200 lines).
