@@ -15,3 +15,8 @@ Backend: 5 classes implementing the engine's `iLowLevelGraphics`, `iTexture`, `i
 Shaders: 51 HLSL files from 64 Cg originals the rest are old-GPU fallbacks and two-pass spot lights skipped.
 
 Shader loading: Compiled at runtime with `D3DCompile`; the engine still asks for `X.cg` and gets `X.hlsl`.
+
+## License
+
+Penumbra-d3d11 is primarily distributed under the terms of the zlib license.
+See [LICENSE](LICENSE)
