@@ -15,9 +15,17 @@ My little port from OpenGL to DirectX11
 ![shader tuning](https://img.shields.io/badge/shader_tuning-in_progress-131313?style=flat-square&labelColor=131313)
 
 ## Frontier
-Backend: 5 classes implementing the engine's `iLowLevelGraphics`, `iTexture`, `iVertexBuffer`, `iGpuProgram` and `iOcclusionQuery` (about 5,200 lines).
+
+- **Audio:** OpenAL output cuts out constantly
+- **Physics:** behaves a bit off compared to the original
+- **Shaders:** tuning the HLSL output
+
+## Backend
+
+5 classes implementing the engine's `iLowLevelGraphics`, `iTexture`, `iVertexBuffer`, `iGpuProgram` and `iOcclusionQuery` (about 5,200 lines).
 
 ## Shaders
+
 51 HLSL files from 64 Cg originals the rest are old-GPU fallbacks and two-pass spot lights skipped.
 
 Compiled at runtime with `D3DCompile`; the engine still asks for `X.cg` and gets `X.hlsl`.
