@@ -1,7 +1,7 @@
 # Penumbra-d3d11
 My little port from OpenGL to DirectX11
 
-![Progress](https://img.shields.io/badge/progress-87--93%25-809099?style=for-the-badge&labelColor=131313)
+![Progress](https://img.shields.io/badge/progress-87--93%25_(approx)-809099?style=for-the-badge&labelColor=131313)
 ![full game build](https://img.shields.io/badge/full_game_build-done-809099?style=flat-square&labelColor=131313)
 ![playable](https://img.shields.io/badge/playable-yes-809099?style=flat-square&labelColor=131313)
 
