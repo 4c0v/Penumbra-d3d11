@@ -20,14 +20,14 @@ Ported HPL Engine 1 to native DirectX 11 `vs_5_0 / ps_5_0 HLSL shaders` with an 
 `Soft shadows, 4x MSAA, anisotropic filtering, FXAA, sharpening, HDR, GGX specular and SSAO D3D11`
 
   ![OpenGL](screenshots/SSAO.png)
-  
-`OpenGL`
-
-  ![OpenGL](screenshots/OpenGL.png)
 
 `D3D11`
 
   ![D3D11](screenshots/D3D11.png)
+  
+`OpenGL`
+
+  ![OpenGL](screenshots/OpenGL.png)
 
 ## Installation instructions
  
