@@ -21,4 +21,4 @@ Compiled at runtime with `D3DCompile`; the engine still asks for `X.cg` and gets
 ## License
 
 Penumbra-d3d11 is primarily distributed under the terms of the zlib license.
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE) and [NOTICES.MD](NOTICES.MD) for 3rd party software and their licenses.
