@@ -10,7 +10,6 @@ My little port from OpenGL to DirectX11
 ![checks](https://img.shields.io/badge/checks-84%2F84_passing-809099?style=flat-square&labelColor=131313)
 ![GPU](https://img.shields.io/badge/verified_on-real_GPU_FL_11.0-809099?style=flat-square&labelColor=131313)
 ![first run](https://img.shields.io/badge/first_run-done-809099?style=flat-square&labelColor=131313)
-![audio](https://img.shields.io/badge/audio-glitchy-131313?style=flat-square&labelColor=131313)
 ![physics](https://img.shields.io/badge/physics-needs_tuning-131313?style=flat-square&labelColor=131313)
 ![shader tuning](https://img.shields.io/badge/shader_tuning-in_progress-131313?style=flat-square&labelColor=131313)
 
