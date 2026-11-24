@@ -17,6 +17,10 @@ My little port from OpenGL to DirectX11
 ## How it's going
 Ported HPL Engine 1 to native DirectX 11 `vs_5_0 / ps_5_0 HLSL shaders` with an `R16G16B16A16_FLOAT` HDR scene target the map still loads in 311 ms.
 
+`Soft shadows, 4x MSAA, anisotropic filtering, FXAA, sharpening, HDR, GGX specular and SSAO D3D11`
+
+  ![OpenGL](screenshots/SSAO.png)
+  
 `OpenGL`
 
   ![OpenGL](screenshots/OpenGL.png)
