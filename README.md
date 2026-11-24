@@ -14,6 +14,17 @@ My little port from OpenGL to DirectX11
 ![physics](https://img.shields.io/badge/physics-needs_tuning-131313?style=flat-square&labelColor=131313)
 ![shader tuning](https://img.shields.io/badge/shader_tuning-in_progress-131313?style=flat-square&labelColor=131313)
 
+## How it's going
+Ported HPL Engine 1 to native DirectX 11 `vs_5_0 / ps_5_0 HLSL shaders` with an `R16G16B16A16_FLOAT` HDR scene target the map still loads in 311 ms.
+
+- `OpenGL`
+
+  ![OpenGL](screenshots/OpenGL.png)
+
+- `D3D11`
+
+  ![D3D11](screenshots/D3D11.png)
+  
 ## Frontier
 
 - **Audio:** OpenAL output cuts out constantly
