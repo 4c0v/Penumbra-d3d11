@@ -28,6 +28,22 @@ Ported HPL Engine 1 to native DirectX 11 `vs_5_0 / ps_5_0 HLSL shaders` with an 
 `D3D11`
 
   ![D3D11](screenshots/D3D11.png)
+
+## Installation instructions
+ 
+Make a copy of your installed `Penumbra: Overture` folder, for example `H:\redist` don't use your only copy.
+
+Unzip PenumbraD3D11.zip and copy core and config as well as the other DLLs and `Overture.exe` as well as `materials.cfg` (Or just copy everything from the extracted folder to your game directory) when or if prompted choose replace for everything.
+
+Make sure `materials.cfg` sits next to `resources.cfg.`
+
+You can check your settings in `config\d3d11_overrides.cfg.`
+
+Run `Overture.exe` and not `Penumbra.exe` since the old exe will error about missing DLLs.
+
+## Log
+
+Open `Documents\Penumbra Overture\Episode1\hpl.log`
   
 ## Frontier
 
